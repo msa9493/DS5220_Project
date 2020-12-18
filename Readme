@@ -1,0 +1,17 @@
+--- Readme documentation for DS5220 - Project codes
+
+We have created two separate ipynb notebooks - One for EDA and Machine Learning models using scikit learn, 
+and the other for pytorch LSTM Deep Learning implementation (using Google Colab)
+
+
+Machine Learning:
+We need to run the all the functions in separate cells.
+Load data in correct location and then load it into the kernel. Load packages and run each cell to view the code output and evaluation metrics
+
+
+Deep Learning:
+We need to run the all the functions in separate cells.
+
+input_size = input size
+n_layers = number of laayers in the network
+activation_list = list of activation functions
